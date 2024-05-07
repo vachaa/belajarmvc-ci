@@ -1,2 +1,2 @@
 # belajarmvc-ci
-here's teh repo for learn mvc with CI
+here's a repo for learn mvc with CI
